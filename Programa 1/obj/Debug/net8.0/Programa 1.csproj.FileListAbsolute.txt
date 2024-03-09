@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\bin\Debug\net8.0\Programa 1.exe
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\bin\Debug\net8.0\Programa 1.deps.json
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\bin\Debug\net8.0\Programa 1.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\bin\Debug\net8.0\Programa 1.dll
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\bin\Debug\net8.0\Programa 1.pdb
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\Programa 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\Programa 1.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\Programa 1.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\Programa 1.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\Programa 1.dll
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\refint\Programa 1.dll
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\Programa 1.pdb
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\Programa 1.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Promer Parcial Progra l\Programa 1\obj\Debug\net8.0\ref\Programa 1.dll
